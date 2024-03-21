@@ -7,3 +7,19 @@
 h1{
     color: aqua;
 }
+
+.card-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 20px  ;
+}
+
+.card{
+    /* width: 200px;*/
+    height: 400px; 
+    border: 2px solid rgb(224, 177, 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

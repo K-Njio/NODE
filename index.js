@@ -15,7 +15,8 @@ const cheese = [
     },
     {
         name: 'oude kaas',
-        description: 'het is nog ouder dan je vader'
+        description: 'het is nog ouder dan je vader',
+        imgName:"oudekaas.jpg"
     }
 ];
 
